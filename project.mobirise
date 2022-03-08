@@ -57,7 +57,7 @@
     "uniqCompNum": 0,
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
